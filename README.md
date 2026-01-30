@@ -77,7 +77,7 @@ The data model is architected as a robust **Star Schema** to ensure high perform
 
 This is a **Single-Page Application (SPA)** designed for density and speed. It is divided into 14 distinct visual elements across 3 logical zones.
 
-![Dashboard Screenshot](Dashboard_Previews/1.Trust & Safety Operations.png)
+![Dashboard Screenshot](Dashboard_Previews/1.Trust_&_Safety_Operations.png)
 
 ### Zone 1: The HUD (Heads-Up Display)
 *The Top Row contains 6 Strategic KPIs designed as "Status Indicators."*
