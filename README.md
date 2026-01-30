@@ -77,7 +77,7 @@ The data model is architected as a robust **Star Schema** to ensure high perform
 
 This is a **Single-Page Application (SPA)** designed for density and speed. It is divided into 14 distinct visual elements across 3 logical zones.
 
-![Dashboard Screenshot](INSERT_DASHBOARD_IMAGE_LINK_HERE)
+![Dashboard Screenshot](Dashboard_Previews/1.Trust & Safety Operations.png)
 
 ### Zone 1: The HUD (Heads-Up Display)
 *The Top Row contains 6 Strategic KPIs designed as "Status Indicators."*
@@ -152,7 +152,7 @@ Unlike Executive Dashboards which use tabs, aggregation, and white space, this p
 *   **Status Color Logic:**
     *   **Teal (`#00CCBC`):** Safe / Operational / Scale.
     *   **Red (`#EB5757`):** Critical Risk / Fraud / Financial Loss.
-    *   **Orange (`#F2994A`):** Warning / Substitute Riders.
+    *   **Red (`#EB5757`):** Warning / Substitute Riders.
 *   **Shadow DOM Effect:** Visuals use rounded corners and drop shadows to mimic the actual **Deliveroo Partner Hub** application, reducing cognitive load for users familiar with the platform.
 
 ---
